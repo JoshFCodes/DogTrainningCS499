@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Lenbo — Chrome with Firebase",
+      "type": "dart",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "program": "lib/main.dart",
+      "deviceId": "chrome",
+      "toolArgs": [
+        "--web-port=8080",
+        "--dart-define=RECAPTCHA_SITE_KEY=6LdyHvMtAAAAAE7mM-FWiNbZz1xaLo2SffwKtWyO"
+      ]
+    }
+  ]
+}

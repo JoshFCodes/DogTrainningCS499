@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9401959975",
+    "project_id": "learning-with-lenbo",
+    "storage_bucket": "learning-with-lenbo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9401959975:android:fcf1fce8c61f1542faf002",
+        "android_client_info": {
+          "package_name": "com.example.dog_training_cs499"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC_ahPsc7j2REmfnWej6qDJu2y3r35zj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
